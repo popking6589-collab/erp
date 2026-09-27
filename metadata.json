@@ -1,0 +1,6 @@
+{
+  "name": "نظام البيان المحاسبي والإداري المتكامل",
+  "description": "منظومة سحابية متكاملة لإدارة الحسابات، المبيعات والمشتريات، المخازن، الموظفين، الخزائن والبنوك، والقوائم المالية والتقارير الشاملة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
